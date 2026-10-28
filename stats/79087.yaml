@@ -1,0 +1,28 @@
+username: "79087"
+updatedAt: 2026-10-28T08:24:39.854Z
+skills:
+  teamai:
+    count: 1
+    lastUsed: 2026-10-28T08:11:58.869Z
+interventions:
+  sessions: 2
+  interrupt: 0
+  toolReject: 0
+  correction: 0
+prompts: 6
+tokens:
+  input: 31323
+  output: 5725
+  cacheRead: 397568
+  cacheCreation: 0
+daily:
+  2026-10-28:
+    sessionsEnded: 2
+    sessionsSucceeded: 2
+    promptTurns: 6
+    durationMs: 1217010
+    sessionsCorrected: 0
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 397568
+    cacheEligibleInputTokens: 428891
